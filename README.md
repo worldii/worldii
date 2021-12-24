@@ -13,13 +13,18 @@
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
 </p>
+<hr>
 
+<h3 align="center"> 🔧 Commit History </h3>
 
 <div align="center" style="text-align:center">
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=worldii)](https://github.com/worldii/github-readme-stats) 
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=worldii)](https://github.com/worldii/github-readme-stats)
+  <br>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=worldii&layout=compact)](https://github.com/worldii/github-readme-stats)
+  <br>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=worldi">
+
 </div>
 
 <hr>
