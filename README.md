@@ -17,7 +17,7 @@
 
 <h3 align="center"> 🎀 Now I'm intereseted in.. </h3>
 <p align="center">
-<img src="https://img.shields.io/badge/Springs-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Springs-A8B9CC?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
 </p>
 <hr>
 
