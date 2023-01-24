@@ -34,24 +34,6 @@
 
  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=worldi">
 </div>
-<hr>
-
-<h3 align="center"> 🥁 Activity <h3>
-<h6 >
-
-<div style="padding-left:50px;">
-<ul>
-<li>서강대학교 컴공</li>
-<li>서강대학교 현대 모비스 Jetson Nano Project 머신 러닝 과정 수료 ( 2021.07.15 )</li>
-<li>코멘토 Devops CI/CD pipeline 과정 수료 ( 2021.07.15 )</li>
-<li>42 서울 입사생 선발 ( 2021.11.01 ~ 2022.12.15 )</li>
-<li>삼성전자 DS 설비 품질 파트 SW 직무 장기현장실습 선발 (2022.03~2022.06)</li>
-<li>서강대학교 교내 C언어 멘토 (2021-1, 2022-2)</li>
-<li>스마일 게이트 Dev Camp 인스타 그램 클론코딩 프로젝트 BackEnd</li>
-<li>SSAFY 9기 (2023.01.13 ~)</li>
-</ul>
-</div>
-</h6>
 
 <hr>
 <h3 align="center"> 📞 For Contact <h3>
