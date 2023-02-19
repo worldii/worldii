@@ -1,19 +1,29 @@
+<div align='center'>  
+ 
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,15,18,25,27&height=150&section=header)
+ 
+ ### Hi 🙌🏼   I'm Jongha Park 👩🏻‍💻  
+</br>
+ 
+### 🛠 Tech Stacks 🛠
 
-<h2 align="center"> 🎈 Park Jong Ha </h2>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>  
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a> 
 
-<h3 align="center"> 🔧 Tech Stack </h3>
+<img src="https://img.shields.io/badge/Springs-A8B9CC?style=flat-square&logo=Spring&logoColor=white"/></a> 
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/Springs-A8B9CC?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
-</p>
-<hr>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>  
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
+
+</br>
+</div>
 
 <h3 align="center"> 🌱 Commit History </h3>
 
@@ -25,26 +35,22 @@
   <br>
 
 </div>
-<hr>
 <h3 align="center"> 🙈 Algorithm History <h3>
-
 <div align="center" style="text-align:center">
-
  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=worldi">
 </div>
 
-<hr>
 <h3 align="center"> 📞 For Contact <h3>
 <div align="center" style="text-align:center">
-  
+
   [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:jongha2788@u.sogang.ac.kr)
 </div>
 
-
-
-
-
-<!-- <p align="center">
+<p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fworldii&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
 </p>
- -->
+
+
+
+
+
