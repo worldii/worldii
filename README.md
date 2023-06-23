@@ -4,6 +4,20 @@
  
  ### Hi 🙌🏼   I'm Jongha Park 👩🏻‍💻  
 </br>
+<div align='left'>
+
+ ## 🙋‍♀️ About Me
+ _BackEnd Engineer_
+- Bachelor of Science in Software @ SGU
+- Teaching Assistant
+  - C Language - C (Spring 2021 / Fall 2022)
+- Internship trainee (Software engineer) @ Samsung Electronics, dit_center
+- A 5th generation Cadet of 42 Seoul ( 2021.10 - 2022.12 )
+- SSAFY JAVA/WEB course ( 2023.01 - 2023.06 )
+
+</br>
+</div>
+
  
 ### 🛠 Tech Stacks 🛠
 
