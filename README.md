@@ -2,21 +2,6 @@
  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,15,18,25,27&height=150&section=header)
  
- ### Hi 🙌🏼   I'm Jongha Park 👩🏻‍💻  
-</br>
-<div align='left'>
-
- ## 🙋‍♀️ About Me
- _BackEnd Engineer_
-- Bachelor of Science in Software @ SGU
-- Teaching Assistant
-  - C Language - C (Spring 2021 / Fall 2022)
-- Internship trainee (Software engineer) @ Samsung Electronics, dit_center ( 2022.03 - 2022.06 )
-- A 5th generation Cadet of 42 Seoul ( 2021.10 - 2022.12 )
-- SSAFY JAVA/WEB course ( 2023.01 - 2023.06 )
-
-</br>
-</div>
 
  
 ### 🛠 Tech Stacks 🛠
