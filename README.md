@@ -17,7 +17,7 @@
 - SmileGate Winter Dev Camp - BackEnd Server Part (2022.12 - 2023.02)
 - SSAFY JAVA/WEB course ( 2023.01 - 2023.06 )
 - WoowaBros Tech Camp - Spring BackEnd Course ( 2023.07- 2023.08 )
-- Now I'm Studying...   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/notion.svg' alt='notion' height='40'>](https://succinct-gymnast-a8b.notion.site/74a25658ab254659bc5d703463828881?pvs=4) 
+- Now I'm Studying...   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/notion.svg' alt='notion' height='40'>](https://jonghadailywrite.notion.site/74a25658ab254659bc5d703463828881) 
 </br>
 </div>
 
@@ -25,17 +25,13 @@
 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>  
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a> 
-
 <img src="https://img.shields.io/badge/Springs-A8B9CC?style=flat-square&logo=Spring&logoColor=white"/></a> 
-
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>  
-
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
 
 </br>
