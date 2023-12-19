@@ -5,13 +5,6 @@
 
   ### Hi 🙌🏼   I'm Jongha Park 👩🏻‍💻  
 </br>
-<div align='left'>
-
- ## 🙋‍♀️ About Me
- _BackEnd Engineer_
-
-</br>
-</div>
 
 ### 🛠 Tech Stacks 🛠
 
