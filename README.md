@@ -9,15 +9,7 @@
 
  ## 🙋‍♀️ About Me
  _BackEnd Engineer_
-- Bachelor of Science in Software @ SGU
-- Teaching Assistant
-  - C Language - C (Spring 2021 / Fall 2022)
-- Internship trainee (Software engineer) @ Samsung Electronics, dit_center
-- A 5th generation Cadet of 42 Seoul ( 2021.10 - 2022.12 )
-- SmileGate Winter Dev Camp - BackEnd Server Part (2022.12 - 2023.02)
-- SSAFY JAVA/WEB course ( 2023.01 - 2023.06 )
-- WoowaBros Tech Camp - Spring BackEnd Course ( 2023.07- 2023.08 )
-- Now I'm Studying...   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/notion.svg' alt='notion' height='40'>](https://jonghadailywrite.notion.site/74a25658ab254659bc5d703463828881) 
+
 </br>
 </div>
 
