@@ -21,6 +21,15 @@
 </br>
 </div>
 
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/worldii?pet-id=639428414823203016"
+    width="600"
+    height="120"
+  />
+</a>
+  
+
 ### 🛠 Tech Stacks 🛠
 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
